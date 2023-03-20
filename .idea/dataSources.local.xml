@@ -21,7 +21,7 @@
       <introspection-level>3</introspection-level>
       <load-sources>user_and_system_sources</load-sources>
     </data-source>
-    <data-source name="T3SMARTSCM@192.168.3.24" uuid="9004ed08-73f2-462d-8348-a47427d99b6a">
+    <data-source name="mssql@zionex" uuid="9004ed08-73f2-462d-8348-a47427d99b6a">
       <database-info product="Microsoft SQL Server" version="15.00.4261" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 11.2 for SQL Server" driver-version="11.2.0.0" dbms="MSSQL" exact-version="15.0.4261" exact-driver-version="11.2">
         <extra-name-characters>$#@</extra-name-characters>
         <identifier-quote-string>&quot;</identifier-quote-string>

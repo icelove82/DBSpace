@@ -9,7 +9,7 @@
       <jdbc-url>jdbc:oracle:thin:@192.168.3.22:1521:zionex</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="T3SMARTSCM@192.168.3.24" uuid="9004ed08-73f2-462d-8348-a47427d99b6a">
+    <data-source source="LOCAL" name="mssql@zionex" uuid="9004ed08-73f2-462d-8348-a47427d99b6a">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
